@@ -1,13 +1,13 @@
-Piezoelectric Shoe – A Step Toward Self-Powered Wearable Technology
+# Piezoelectric Shoe – A Step Toward Self-Powered Wearable Technology
 
-📌 Overview
+## 📌 Overview
 
 The Piezoelectric Shoe is an innovative prototype that generates electricity from footsteps using piezoelectric sensors embedded in the sole. Every step produces pressure, which is converted into electrical energy and stored in a rechargeable battery. This stored power can be used to charge small wearable devices like fitness trackers, LEDs, or GPS modules. The project demonstrates how motion-based energy harvesting can provide a sustainable and affordable solution to the problem of limited battery life in wearables.
 
 
 ---
 
-🚩 Problem Statement
+## 🚩 Problem Statement
 
 Wearable devices such as smartwatches and health trackers are limited by short battery life and frequent charging requirements. In remote areas, treks, or emergencies, charging may not always be possible. This project addresses the question:
 “Can our daily steps be converted into useful electricity?”
@@ -15,14 +15,14 @@ Wearable devices such as smartwatches and health trackers are limited by short b
 
 ---
 
-💡 Solution
+## 💡 Solution
 
 By integrating piezoelectric sensors into the shoe sole, pressure from footsteps is harvested as electrical energy. A supporting circuit rectifies, boosts, and regulates this energy before safely storing it in a rechargeable battery. This power can then be used for essential low-power devices.
 
 
 ---
 
-⚙ Working Principle
+## ⚙ Working Principle
 
 1. Piezoelectric Sensors – Generate AC voltage when pressure is applied.
 
@@ -46,7 +46,7 @@ By integrating piezoelectric sensors into the shoe sole, pressure from footsteps
 
 ---
 
-🌍 Applications
+## 🌍 Applications
 
 Powering health wearables and step counters.
 
@@ -60,7 +60,7 @@ Potential use in defense and disaster management, where external charging is dif
 
 ---
 
-🚀 Innovation & Features
+## 🚀 Innovation & Features
 
 Low-cost implementation using easily available modules.
 
@@ -74,7 +74,7 @@ Tested with real-life use cases to validate practicality.
 
 ---
 
-🔮 Future Scope
+## 🔮 Future Scope
 
 Increase energy efficiency by integrating multiple piezo sensors per shoe.
 
@@ -88,7 +88,7 @@ Long-term vision: develop a self-powered wearable ecosystem with zero dependency
 
 ---
 
-👥 Contributors
+## 👥 Contributors
 
 G Mahesh: Circuit design & hardware integration.
 
